@@ -4,3 +4,4 @@ sua hoan thien file 2 commit lan 2
 
 test di chuyen giua cac commit:
 Test commit 1
+Test commit 2
