@@ -1,3 +1,6 @@
 2
 Sua do file 2 thi fai ve main => them vao stash
 sua hoan thien file 2 commit lan 2
+
+test di chuyen giua cac commit:
+Test commit 1
